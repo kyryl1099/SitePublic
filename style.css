@@ -47,6 +47,7 @@ img{
 	box-shadow:5px 5px 5px black;
 	width:40%;
 	
+	
 }
 .success{
 	background-color:green;
@@ -60,5 +61,9 @@ img{
 }
 .message:hover{
 	border:2px solid black;
+	transform: scale(1.1);
+	transition:1s all;
+	
+
 }
 
