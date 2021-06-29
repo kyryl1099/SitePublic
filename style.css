@@ -1,0 +1,64 @@
+a{
+	color:red;
+	font-size:24px;
+}
+html{
+	color:#00008B;
+	font-family:Arial;
+}
+
+p{
+	color:blue;
+	text-align:justify;
+}
+
+body{
+	background:rgba(32,100,100,0.1);
+}
+
+div{	
+	color:#FF1493;
+	background:yellow;
+}
+img{
+	border:1px solid yellow;
+	border-radius:50px;
+}
+
+#mylink{
+	color:blue;
+	background:red;
+}
+
+#testlink{
+	font-size:20px;
+	color:red;
+	background:green;
+}
+.message{
+	color:white;
+	background-color:#747474;
+	border:1px solid #323232;
+	margin-bottom:10px;
+	padding:15px;
+	text-align:center;
+	border-radius:30%;
+	opacity:0.8;
+	box-shadow:5px 5px 5px black;
+	width:40%;
+	
+}
+.success{
+	background-color:green;
+}
+.error{
+	background-color:red;
+}
+.warning{
+	background-color:#9932CC;
+	color:yellow;
+}
+.message:hover{
+	border:2px solid black;
+}
+
