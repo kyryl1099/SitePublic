@@ -44,7 +44,7 @@ img{
 	text-align:center;
 	border-radius:30%;
 	opacity:0.8;
-	box-shadow:5px 5px 5px black;
+
 	width:40%;
 	
 	
@@ -60,9 +60,10 @@ img{
 	color:yellow;
 }
 .message:hover{
+	box-shadow:5px 5px 5px black;
 	border:2px solid black;
 	transform: scale(1.1);
-	transition:1s all;
+	transition:0.2s all;
 	
 
 }
