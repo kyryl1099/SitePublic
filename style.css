@@ -25,7 +25,9 @@ img{
 	border-radius:50px;
 	max-width:100%;
 }
-
+video{
+	max-width:100%;
+}
 #mylink{
 	color:blue;
 	background:red;
