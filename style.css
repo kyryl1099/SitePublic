@@ -29,6 +29,30 @@ img{
 video{
 	max-width:100%;
 }
+table,th,td{
+	border:1px solid black;
+
+}
+table{
+	border-spacing:5px;
+	background:yellow;
+	color:yellow;
+	width:100%;
+}
+caption{
+	text:strong;
+	color:blue;
+}
+
+th{
+	padding:5px;
+	background:gray;	
+}
+td{
+	padding:15px;
+	background:green;
+}
+
 #mylink{
 	color:blue;
 	background:red;
