@@ -48,3 +48,41 @@ body {
 	width: 100%;
 	height: 40px;
 }
+#registration{
+	background:#DC143C;
+	float:right;
+	width:100%;
+	height:150px;
+}
+#menu{
+	background:#008000;
+	color:#FFFF00;
+	width:100%;	
+	height:210px;
+	margin-top: 180px;
+	padding-top:20px;
+	font-size: 24px;	
+	padding-left:25px;
+}
+#menu-text{
+	text-align:left;
+}
+a{
+	color:#FFFF00;
+	text-decoration:none;
+}
+a:hover{
+	color:#FFD700;
+	font-size: 26px;
+	transition:0.2s all;
+}
+form{
+	font-weight:bold;
+	color:#FFFF00;
+}
+.del:hover{
+	box-shadow:5px 5px 5px black;
+	border:2px solid black;
+	transform: scale(1.1);
+	transition:0.2s all;
+}
